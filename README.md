@@ -15,6 +15,7 @@ Fraud Rate % & Success Rate %
 Avg Transaction Amount & Avg Fraud Amount
 
 Dashboard Pages
+
 1️⃣ Transactions Overview
 Monthly trend of Total vs Fraud Amount
 Transaction distribution by type (Online, POS, ATM)
